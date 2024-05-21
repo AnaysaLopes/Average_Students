@@ -1,6 +1,6 @@
 # Cálculo de média de alunos 
 
--- Cria uma lista de **estudantes** e, cada estudante dentro dessa lista, deve conter os seguintes dados:
+-- Criar uma lista de **estudantes** e, cada estudante dentro dessa lista, deverá conter os seguintes dados:
 
     - nome;
     - nota da primeira prova;
